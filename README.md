@@ -1,5 +1,5 @@
 
-Meter Reading using OCR
+Meter Reading using OCR.
 This project extracts meter readings from images using OpenCV and easyocr.
 
 This Python script utilizes the EasyOCR library to extract and recognize text from an image. The process involves several image processing steps to enhance text visibility and locate the text region.
